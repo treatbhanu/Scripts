@@ -1,0 +1,67 @@
+
+Listing Instances in region:'ap-south-1'...
+
+Listing Instances in region:'eu-west-3'...
+
+Listing Instances in region:'eu-north-1'...
+
+Listing Instances in region:'eu-west-2'...
+
+Listing Instances in region:'eu-west-1'...
+
+Listing Instances in region:'ap-northeast-2'...
+
+Listing Instances in region:'ap-northeast-1'...
+
+Listing Instances in region:'sa-east-1'...
+
+Listing Instances in region:'ca-central-1'...
+
+Listing Instances in region:'ap-southeast-1'...
+
+Listing Instances in region:'ap-southeast-2'...
+
+Listing Instances in region:'eu-central-1'...
+-----------------------------------------------------------------------------
+|                             DescribeInstances                             |
++----------------------+-----------------+---------+------------+-----------+
+|  i-0b9024647d078386b |  gitlab-testing |  None   |  t2.medium |  stopped  |
+|  i-0147094e7c1ca451e |  Sagar          |  Sagar  |  t2.micro  |  stopped  |
+|  i-05773a5ddd89c7000 |  prod-mag-zk3   |  Deepak |  t2.small  |  stopped  |
+|  i-0f534521e5dd756e8 |  prod-mag-zk4   |  Deepak |  t2.small  |  stopped  |
++----------------------+-----------------+---------+------------+-----------+
+
+Listing Instances in region:'us-east-1'...
+----------------------------------------------------------------------------------------------------------------
+|                                               DescribeInstances                                              |
++---------------------+----------------------------------------------+--------------+--------------+-----------+
+|  i-03b43246952cfa6e3|  webrtc-win-64-packager                      |  Harish      |  t2.medium   |  stopped  |
+|  i-081162416e70c9979|  wildcard-ssl-generator                      |  Deepak      |  t2.nano     |  stopped  |
+|  i-063a09247966f7eda|  webrtc-build-ubuntu-harish                  |  Harish      |  m5.2xlarge  |  stopped  |
+|  i-0b58f33a3516d1898|  kinesis-poc-ml                              |  Prashant    |  t2.medium   |  stopped  |
+|  i-0fc06cab8f27e6c83|  prod-tunnel-ml-us-east-1                    |  Deepak      |  t2.medium   |  stopped  |
+|  i-01f884f929043e0f2|  webrtc-native-harish-do-not-delete          |  Harish      |  t2.medium   |  stopped  |
+|  i-0da8a2fefecbc0292|  sonarqube.lambdatest.com                    |  Deeapak     |  t2.medium   |  stopped  |
+|  i-0fff58d10fc4083c3|  webtrc-windows-builder-attempt-2-by-harish  |  Harish      |  t2.medium   |  stopped  |
+|  i-0dc2fe22ae8ddb47e|  dhcp-config                                 |  Harish      |  t2.micro    |  stopped  |
+|  i-0e6e3eea6387a10e2|  prod-mag-zk                                 |  Deepak      |  t2.small    |  stopped  |
+|  i-07c8a72336d92dd9f|  testingD                                    |  Harish      |  t2.micro    |  stopped  |
+|  i-05f04b67d27b052ff|  kinesis-poc-amazon-ami                      |  Mayank      |  t2.micro    |  stopped  |
+|  i-004934782d2b12dd7|  Win 10 for Mayank                           |  Deepak      |  t2.medium   |  stopped  |
+|  i-04624c4ddb174876a|  kops-for-harish                             |  Harish      |  t2.medium   |  stopped  |
+|  i-0b625100fee6eb101|  SSRahman                                    |  S.S. Rahman |  t2.micro    |  stopped  |
+|  i-0f956a840fd9441b4|  webtrc-windows-builder-attempt-3-by-harish  |  Harish      |  m5.24xlarge |  stopped  |
+|  i-01744e1ca705c647b|  tunnel.lambdatest.com                       |  Harish      |  t2.micro    |  stopped  |
+|  i-02659e0473ef9543f|  prod-mag-zk-1                               |  Deepak      |  t2.small    |  stopped  |
+|  i-0b32dd4b6710fb5ad|  prod-mag-zk-2                               |  Deepak      |  t2.small    |  stopped  |
+|  i-08aff3d2bcd348032|  Prod-Tunnel                                 |  Harish      |  t2.micro    |  stopped  |
+|  i-0bc756f7b576abbb2|  Crowd-ldap                                  |  Prashant    |  t2.micro    |  stopped  |
+|  i-0b7b6cb1019670190|  Ansible Server                              |  Deepak      |  t2.medium   |  stopped  |
+|  i-0b3626042c8ecdd7a|  webrtc-windows-chromium-build-harish        |  Harish      |  t2.large    |  stopped  |
++---------------------+----------------------------------------------+--------------+--------------+-----------+
+
+Listing Instances in region:'us-east-2'...
+
+Listing Instances in region:'us-west-1'...
+
+Listing Instances in region:'us-west-2'...

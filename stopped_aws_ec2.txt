@@ -1,0 +1,56 @@
+|  i-0b3e6a8dc5c67dd73 |  Kanhaiya-for-LinkedIn            |  t2.small  |  stopped |
+|  i-015345d1665a2b961 |  stage-remote-ap-south-1          |  t2.large  |  stopped |
+|  i-0a83591171a8f76c2 |  poc-packer                       |  t2.micro  |  stopped |
+|  i-0a274e53706040f4c |  DEEPAK-POC |  t2.micro |  stopped  |
+|  i-0c26f3db7b94120ce|  stage-zk1.lambdatest.com (compromised)           |  t2.micro  |  stopped  |
+|  i-03907f9cf5a62c3c8|  None                                             |  t2.nano   |  stopped  |
+|  i-082292962c1a22246|  squid-proxy-2 (kanhaiya)                         |  t2.micro  |  stopped  |
+|  i-014f1efeb74eaf210|  squid-proxy-1 (kanhaiya)                         |  t2.micro  |  stopped  |
+|  i-0c0b80e5a79404143|  squid-proxy-4 (kanhaiya)                         |  t2.nano   |  stopped  |
+|  i-0c63421029762b0b5|  squid-proxy-5 (kanhaiya)                         |  t2.nano   |  stopped  |
+|  i-078c6463c15c128ca|  squid-proxy-3 (kanhaiya)                         |  t2.nano   |  stopped  |
+|  i-07d766b6d46f8695c|  zk3.lambdatest.com                               |  t2.small  |  stopped  |
+|  i-081a7669a3ab1c705|  ci2.lambdatest.io                                |  t2.micro  |  stopped  |
+|  i-08ce4d03e79b0d8ff|  Guacamole                                        |  t2.medium |  stopped  |
+|  i-095a4da3877fa6289|  squid-proxy-testing(kanhaiya)                    |  t2.micro  |  stopped  |
+|  i-06f0d5bb7ad888b26|  salt-master-2                                    |  t2.micro  |  stopped  |
+|  i-08ed40aa547908af8|  zk3.lambdatest.com(compromised)                  |  t2.small  |  stopped  |
+|  i-03b43246952cfa6e3|  webrtc-win-64-packager                             |  t2.medium   |  stopped  |
+|  i-0b150858edf1cb376|  Base-win-10-template-for-ML                        |  t2.medium   |  stopped  |
+|  i-0fd2cdcdeab4d113d|  prestashop.lambdatest.io                           |  m1.medium   |  stopped  |
+|  i-081162416e70c9979|  wildcard-ssl-generator                             |  t2.nano     |  stopped  |
+|  i-063a09247966f7eda|  webrtc-build-ubuntu-harish                         |  m5.2xlarge  |  stopped  |
+|  i-01f884f929043e0f2|  webrtc-native-harish-do-not-delete                 |  t2.medium   |  stopped  |
+|  i-0da074e1449b80b66|  MagicLeap Gateway                                  |  t2.micro    |  stopped  |
+|  i-0595e6e5c739fb002|  lvms-debug-prod-pool                               |  t2.micro    |  stopped  |
+|  i-0da8a2fefecbc0292|  sonarqube.lambdatest.com                           |  t2.medium   |  stopped  |
+|  i-000d0c532bcfe290f|  lums-docker-poc-latest                             |  t2.small    |  stopped  |
+|  i-043b9370f6702340d|  Aerokube                                           |  t2.small    |  stopped  |
+|  i-07560e693242cad9c|  Zelenium-hub                                       |  t2.small    |  stopped  |
+|  i-0975b8e9dc12ee19b|  db.stage-ml.lambdatest.com                         |  t2.micro    |  stopped  |
+|  i-0fff58d10fc4083c3|  webtrc-windows-builder-attempt-2-by-harish         |  t2.medium   |  stopped  |
+|  i-0dc2fe22ae8ddb47e|  dhcp-config                                        |  t2.micro    |  stopped  |
+|  i-0bb886046b9b4796b|  WIN-7-ML-POC                                       |  t2.medium   |  stopped  |
+|  i-00a4f151e2c0c7a52|  stage-kops                                         |  t2.small    |  stopped  |
+|  i-013af9d72b4204ec4|  dev-lts-server                                     |  t2.micro    |  stopped  |
+|  i-07c8a72336d92dd9f|  testingD                                           |  t2.micro    |  stopped  |
+|  i-0d123d3711ba06213|  Selnium-hub                                        |  t2.micro    |  stopped  |
+|  i-03041dff85449ac38|  test-Deepak                                        |  t2.micro    |  stopped  |
+|  i-0dc447e38fbc57aad|  Win-8.1-POC-ffmpeg                                 |  t2.small    |  stopped  |
+|  i-0bda9566af19d33c5|  kibana-nginx-test                                  |  t2.micro    |  stopped  |
+|  i-0140f17e0141951b6|  Redmine-POC-Siraj                                  |  t2.small    |  stopped  |
+|  i-05039b5940998ce5f|  mysql-backup-restore-prod                          |  t2.micro    |  stopped  |
+|  i-0f72b72eabcd6724a|  LambdaTest Website                                 |  t2.small    |  stopped  |
+|  i-04624c4ddb174876a|  kops-for-harish                                    |  t2.medium   |  stopped  |
+|  i-04582aac5b0b7cd21|  prod-kops                                          |  t2.small    |  stopped  |
+|  i-0f956a840fd9441b4|  webtrc-windows-builder-attempt-3-by-harish         |  m5.24xlarge |  stopped  |
+|  i-00f17c47647bf0f70|  stun-us.lambdatest.com                             |  t2.small    |  stopped  |
+|  i-01744e1ca705c647b|  tunnel.lambdatest.com                              |  t2.micro    |  stopped  |
+|  i-08aff3d2bcd348032|  Prod-Tunnel                                        |  t2.micro    |  stopped  |
+|  i-097da2352e89e241f|  lums-poc-dev                                       |  t2.small    |  stopped  |
+|  i-08630b5389f055013|  prestashop-free-trial                              |  m1.medium   |  stopped  |
+|  i-0cf38f3b6177ee833|  WIN-10-ML-FOR-TESTING                              |  t2.medium   |  stopped  |
+|  i-0b7b6cb1019670190|  Ansible Server                                     |  t2.medium   |  stopped  |
+|  i-0356baba25b719e7d|  stage-automation-kops                              |  t2.micro    |  stopped  |
+|  i-0b3626042c8ecdd7a|  webrtc-windows-chromium-build-harish               |  t2.large    |  stopped  |
+|  i-0e3a84b8afbe78cba |  zookeeper-stage              |  t2.small  |  stopped |
