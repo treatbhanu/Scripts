@@ -1,0 +1,178 @@
+
+Listing Instances in region:'ap-south-1'...
+-----------------------------------------------------------------------------------------------------
+|                                         DescribeInstances                                         |
++---------------------+----------------------------------+---------+-------+------------+-----------+
+|  i-08822506a1befb93b|  stun-ap-south-1.lambdatest.com  |  Deepak |  None |  t2.medium |  running  |
+|  i-0b3b512ef45418897|  stage-guacamole                 |  Deepak |  None |  t2.large  |  running  |
+|  i-0c41ec7862d5474ff|  remote-ap-south-1               |  Deepak |  None |  t2.medium |  running  |
+|  i-0be337cbf41ef1a30|  vpn-heartbeat-do-not-delete     |  Shahid |  None |  t2.micro  |  running  |
+|  i-09d96f6f61d642cf7|  tunnel-ap-south-1               |  Deepak |  None |  t2.medium |  running  |
++---------------------+----------------------------------+---------+-------+------------+-----------+
+
+Listing Instances in region:'eu-west-3'...
+
+Listing Instances in region:'eu-north-1'...
+--------------------------------------------------------------------------------
+|                               DescribeInstances                              |
++----------------------+----------------+-------+-------+----------+-----------+
+|  i-04fe9c3028f49b19f |  vpn-heartbeat |  None |  None |  t3.nano |  running  |
++----------------------+----------------+-------+-------+----------+-----------+
+
+Listing Instances in region:'eu-west-2'...
+
+Listing Instances in region:'eu-west-1'...
+----------------------------------------------------------------------------------------------------
+|                                         DescribeInstances                                        |
++---------------------+---------------------------------+---------+-------+------------+-----------+
+|  i-08a95720b38d0f613|  stun-eu-west-1.lambdatest.com  |  Deepak |  None |  t2.medium |  running  |
++---------------------+---------------------------------+---------+-------+------------+-----------+
+
+Listing Instances in region:'ap-northeast-2'...
+
+Listing Instances in region:'ap-northeast-1'...
+---------------------------------------------------------------------------------
+|                               DescribeInstances                               |
++----------------------+----------------+-------+-------+-----------+-----------+
+|  i-0a0e0863bde84d8ad |  vpn-heartbeat |  None |  None |  t2.micro |  running  |
++----------------------+----------------+-------+-------+-----------+-----------+
+
+Listing Instances in region:'sa-east-1'...
+
+Listing Instances in region:'ca-central-1'...
+
+Listing Instances in region:'ap-southeast-1'...
+-----------------------------------------------------------------------------------------------------------------------------------
+|                                                        DescribeInstances                                                        |
++---------------------+----------------------------------------------------------------+---------+-------+------------+-----------+
+|  i-06c68b69c6389b655|  nodes.dev-automation.lambdatest.com                           |  Deepak |  None |  m4.large  |  running  |
+|  i-00065d29d69db8796|  nodes.dev-automation.lambdatest.com                           |  Deepak |  None |  m4.large  |  running  |
+|  i-0eb3b36d030ba76d5|  nodes.dev-automation.lambdatest.com                           |  Deepak |  None |  m4.large  |  running  |
+|  i-099c7ebd86935deba|  nodes.dev-automation.lambdatest.com                           |  Deepak |  None |  m4.large  |  running  |
+|  i-05f0a3d1b76bc4c13|  dev-tunnel-automation-ap-southeast-1                          |  Deepak |  None |  t2.medium |  running  |
+|  i-01966c63a25ae03fe|  VPN-heartbeat-(do_not_delete)                                 |  Shahid |  None |  t2.micro  |  running  |
+|  i-078c2d39f3cb42efa|  remote-ap-sotheast-1                                          |  Deepak |  None |  t2.medium |  running  |
+|  i-0de66b0c6737ee861|  dev-automation-kops                                           |  Deepak |  None |  t2.small  |  running  |
+|  i-00d07f88db1749717|  dev-tunnel-automation-db                                      |  Deepak |  None |  t2.small  |  running  |
+|  i-013c09a33eebf89ce|  master-ap-southeast-1a.masters.dev-automation.lambdatest.com  |  Deepak |  None |  m4.large  |  running  |
+|  i-0952a8680eeedb93a|  logcipher-dev-ml-cluster                                      |  Deepak |  None |  t2.micro  |  running  |
++---------------------+----------------------------------------------------------------+---------+-------+------------+-----------+
+
+Listing Instances in region:'ap-southeast-2'...
+---------------------------------------------------------------------------------------------------------
+|                                           DescribeInstances                                           |
++---------------------+--------------------------------------+---------+-------+------------+-----------+
+|  i-0bfd9d595f539192e|  stun-ap-southeast-2.lambdatest.com  |  Deepak |  None |  t2.medium |  running  |
++---------------------+--------------------------------------+---------+-------+------------+-----------+
+
+Listing Instances in region:'eu-central-1'...
+----------------------------------------------------------------------------------------------------------------------------------
+|                                                        DescribeInstances                                                       |
++---------------------+--------------------------------------------------------+-----------+------------+------------+-----------+
+|  i-0f8e08a1b0865cbdc|  None                                                  |  Shahid   |  None      |  t2.micro  |  running  |
+|  i-0f701903567d87f90|  salt-poc-(lerc)                                       |  Shahid   |  None      |  t2.micro  |  running  |
+|  i-07dd068936cdbd3f4|  salt-master                                           |  Shahid   |  None      |  t2.large  |  running  |
+|  i-028d817dca629f8da|  salt-master-poc(event-based)                          |  Shahid   |  None      |  t2.micro  |  running  |
+|  i-0a4b4639738879d21|  stage-ml-kops                                         |  Deepak   |  None      |  t2.small  |  running  |
+|  i-0bbebf0da796d5ec0|  ml.prod-Grafana-ml-prod  g.ml-insights.lambdatest.io  |  Prashant |  magicleap |  t2.micro  |  running  |
+|  i-0da4965fa8a540805|  stage-zk1                                             |  Deepak   |  None      |  t2.micro  |  running  |
+|  i-0fcb9bbb98937ce41|  ssh-proxy-for-hetzner                                 |  Shahid   |  None      |  t2.micro  |  running  |
+|  i-076c8ecc19d53aaf2|  remote-eu-central-1                                   |  Deepak   |  None      |  t2.medium |  running  |
+|  i-085f45cdbcbcbe298|  prod-zk3                                              |  Deepak   |  None      |  t2.small  |  running  |
+|  i-0094dc6a48814578d|  tunnel-eu-central-1                                   |  Deepak   |  None      |  t2.medium |  running  |
+|  i-073bdf4b63c91fcf4|  vpn-heartbeat-do-not-delete                           |  Shahid   |  None      |  t2.micro  |  running  |
++---------------------+--------------------------------------------------------+-----------+------------+------------+-----------+
+
+Listing Instances in region:'us-east-1'...
+------------------------------------------------------------------------------------------------------------------------------------
+|                                                         DescribeInstances                                                        |
++---------------------+-----------------------------------------------------+----------------+------------+------------+-----------+
+|  i-0e141d1e491d00839|  stage-mag-zk1                                      |  Deepak        |  magicleap |  t2.micro  |  running  |
+|  i-0fe0b6ebbb92b663a|  stage-mag-zk2                                      |  Deepak        |  magicleap |  t2.micro  |  running  |
+|  i-01723b9bf365ab524|  stage-mag-zk                                       |  Deepak        |  magicleap |  t2.micro  |  running  |
+|  i-056d20c105c45acdd|  master-us-east-1a.masters.stage-ml.lambdatest.com  |  Deepak        |  magicleap |  m4.large  |  running  |
+|  i-093d9ef8e2c15085c|  automation-kops                                    |  Sawan         |  None      |  t2.small  |  running  |
+|  i-0a62fac3f1247d4a1|  ml.prod-logstash-shipper-for-insights-automation   |  Prashant      |  magicleap |  t2.micro  |  running  |
+|  i-0e3c8321649ce3069|  lss.lambdatest.com (Primary)                       |  Sawan         |  None      |  t2.medium |  running  |
+|  i-0bedab64ac2dd0722|  stage-kops                                         |  Deepak        |  falcon    |  t2.small  |  running  |
+|  i-02e99c4b53713f968|  ci.lambdatest.io                                   |  Deepak        |  falcon    |  t2.large  |  running  |
+|  i-0f3aba8cbd640ac2d|  ehx.lambdatest.com - Prod                          |  Deepak        |  None      |  t2.micro  |  running  |
+|  i-0be7bf570921b0134|  dev-mag-zk2                                        |  Deepak        |  magicleap |  t2.micro  |  running  |
+|  i-011991d849208e4e5|  dev-mag-zk                                         |  Deepak        |  magicleap |  t2.micro  |  running  |
+|  i-074e233ed72a97075|  dev-mag-zk1                                        |  Deepak        |  magicleap |  t2.micro  |  running  |
+|  i-018459fe7e38c97bd|  ml.stage-kibana-6.3.1                              |  Prashant      |  magicleap |  t2.micro  |  running  |
+|  i-02c228602c72c3934|  lens.lambdatest.io                                 |  Sawan         |  None      |  t2.micro  |  running  |
+|  i-0529453d8c4670133|  f.prod-logstash-shipper-for-insights               |  Prashant      |  None      |  t2.micro  |  running  |
+|  i-0f3a81e730d5d4040|  prod-new-kops                                      |  Deepak        |  None      |  t2.small  |  running  |
+|  i-0e4955cb3e455c501|  osclass.lmabdatest.io                              |  Magic Leap QA |  None      |  t2.medium |  running  |
+|  i-0969d5bf85179def9|  nodes.prod.k8s.local                               |  Deepak        |  falcon    |  m4.large  |  running  |
+|  i-089dcfa89187555f5|  ML-frontend-builder                                |  Deepak        |  magicleap |  t2.medium |  running  |
+|  i-07e5147bbb49ad793|  ml.prod-kibana-6.3.1                               |  Prashant      |  magicleap |  t2.micro  |  running  |
+|  i-0d67794f97e96f5dd|  tunnel-ml-us-east-1-stage                          |  Deepak        |  None      |  t2.medium |  running  |
+|  i-0fa9dfdcd7f73f705|  lvis.lambdatest.com                                |  Sawan         |  None      |  t2.micro  |  running  |
+|  i-0360d5e8ce20604a9|  SALT-SERVER-MAGICLEAP                              |  Deepak        |  magicleap |  t2.medium |  running  |
+|  i-0ae96dacc42753a2b|  lss-us.lambdatest.com (Primary)                    |  Sawan         |  None      |  t2.micro  |  running  |
+|  i-0f8de7a7f264509b9|  ML-Jenkins-Windows-Node                            |  Deepak        |  None      |  t2.medium |  running  |
+|  i-0c8070d8e068b23c5|  stage-tunnels.lambdatest.com                       |  Deepak        |  falcon    |  t2.micro  |  running  |
+|  i-03783f66ba7be5ff8|  ML-POC-Jenkins (MAG-162)                           |  Deepak        |  magicleap |  t2.large  |  running  |
+|  i-07c3bf92a57dfae6e|  magicleap-vpn-access                               |  Sawan         |  None      |  t2.micro  |  running  |
+|  i-05817f100a6981193|  LUMS1.0                                            |  S.S. Rahman   |  None      |  t2.large  |  running  |
+|  i-03bf115daaff67999|  orangehrm.lambdatest.io                            |  Magic Leap QA |  None      |  t2.medium |  running  |
+|  i-07902b5b288812012|  zk.lambdatest.com                                  |  Sawan         |  None      |  t2.micro  |  running  |
+|  i-06903347b550fd234|  nodes.stage-ml.lambdatest.com                      |  Deepak        |  magicleap |  m4.large  |  running  |
+|  i-0e438540ac84e9db3|  jenkins-windows-slave                              |  Deepak        |  falcon    |  t2.medium |  running  |
+|  i-0d004ae6a9326ca76|  zk2.lambdatest.com                                 |  Sawan         |  None      |  t2.small  |  running  |
+|  i-030b951083e4059e5|  zk.lambdatest.com                                  |  Sawan         |  None      |  t2.small  |  running  |
+|  i-0461336748d9f99d4|  zk1.lambdatest.com                                 |  Sawan         |  None      |  t2.small  |  running  |
+|  i-087b3ce718d685c14|  ml.dev-kibana-16.04                                |  Prashant      |  magicleap |  t2.small  |  running  |
+|  i-0162dfc1534ef5aa3|  nodes.stage.k8s.local                              |  Deepak        |  falcon    |  m4.large  |  running  |
+|  i-0ab0cbdeb56d77d62|  nodes.stage.k8s.local                              |  Deepak        |  falcon    |  m4.large  |  running  |
+|  i-0a70c97fc579b4c76|  remote-us-east-1.lambdatest.com                    |  Deepak        |  falcon    |  t2.medium |  running  |
+|  i-00b602da042180cec|  docs.lambdatest.com                                |  Prashant      |  None      |  t2.medium |  running  |
+|  i-08d11a6c5d0537c9f|  nodes.stage.k8s.local                              |  Deepak        |  falcon    |  m4.large  |  running  |
+|  i-0b712d0598d1ed30c|  nodes.stage.k8s.local                              |  Deepak        |  falcon    |  m4.large  |  running  |
+|  i-0f2a209bf5c9e92dd|  stag-tunnel-automation-db                          |  Deepak        |  None      |  t2.small  |  running  |
+|  i-03d241a76da7fd651|  prod-beta-automation-kops                          |  None          |  None      |  t2.small  |  running  |
+|  i-037b9460c7dd23621|  tunnel-us-east-1                                   |  Deepak        |  falcon    |  t2.medium |  running  |
+|  i-02a35a91558935e44|  prod-tunnel-db                                     |  Deepak        |  falcon    |  t2.small  |  running  |
+|  i-0abfdae326922dfc0|  Magic Leap Jenkins                                 |  Nikhil        |  None      |  t2.medium |  running  |
+|  i-02c535940e8b8c30b|  kops-aka-jumbbox                                   |  Sawan         |  None      |  t2.small  |  running  |
+|  i-0ca7dbd666bd9aeea|  stun-us-east-1.lambdatest.com                      |  Deepak        |  falcon    |  t2.medium |  running  |
+|  i-042f53d283595cdd6|  lss.lambdatest.com (Failover)                      |  Sawan         |  None      |  t2.micro  |  running  |
+|  i-01ac2ccc4ce0956a7|  prestashop.lambdatest.io                           |  Magic Leap QA |  None      |  c3.xlarge |  running  |
+|  i-063e8d199ae2f46ab|  nodes.stage-ml.lambdatest.com                      |  Deepak        |  magicleap |  m4.large  |  running  |
+|  i-049f4333c9e393b24|  nodes.stage-ml.lambdatest.com                      |  Deepak        |  magicleap |  m4.large  |  running  |
+|  i-038e6ffb27256058d|  nodes.prod.k8s.local                               |  Deepak        |  falcon    |  m4.large  |  running  |
+|  i-0ab629619c7a4daa9|  master-us-east-1a.masters.stage.k8s.local          |  Deepak        |  falcon    |  m4.large  |  running  |
+|  i-0e97ebd2f7310079e|  ml-poc-windows-slave                               |  Deepak        |  None      |  t2.medium |  running  |
+|  i-0528d739ddf711ab7|  vpn-heartbeat-do-not-delete                        |  Shahid        |  None      |  t2.micro  |  running  |
+|  i-0e35d435dc1b40e24|  Nagios - Server                                    |  Deepak        |  common    |  t2.large  |  running  |
+|  i-08b36ddf55288a14b|  suitecrm.lambdatest.io                             |  Magic Leap QA |  None      |  t2.medium |  running  |
+|  i-05d2cd93c06227898|  ml.prod-nginx-kibana-new                           |  Prashant      |  magicleap |  t2.micro  |  running  |
+|  i-0174f659073f58325|  nodes.prod.k8s.local                               |  Deepak        |  falcon    |  m4.large  |  running  |
+|  i-03d59cfaa6124dfc6|  nodes.prod.k8s.local                               |  Deepak        |  falcon    |  m4.large  |  running  |
+|  i-074d342f818510cad|  master-us-east-1a.masters.prod.k8s.local           |  Deepak        |  falcon    |  m4.large  |  running  |
+|  i-00a4058a2444f84ff|  nodes.stage-ml.lambdatest.com                      |  Deepak        |  magicleap |  m4.large  |  running  |
++---------------------+-----------------------------------------------------+----------------+------------+------------+-----------+
+
+Listing Instances in region:'us-east-2'...
+
+Listing Instances in region:'us-west-1'...
+----------------------------------------------------------------------------------------------------
+|                                         DescribeInstances                                        |
++---------------------+---------------------------------+---------+-------+------------+-----------+
+|  i-0a39c5c60d74b408f|  stun-us-west-1.lambdatest.com  |  Deepak |  None |  t2.medium |  running  |
+|  i-01e7fa2a4b69736cb|  For testing                    |  None   |  None |  t2.small  |  running  |
++---------------------+---------------------------------+---------+-------+------------+-----------+
+
+Listing Instances in region:'us-west-2'...
+--------------------------------------------------------------------------------------------------
+|                                        DescribeInstances                                       |
++---------------------+-------------------------------+---------+-------+------------+-----------+
+|  i-0b9dc49c74e86ce46|  zk2.lambdatest.com           |  Sawan  |  None |  t2.micro  |  running  |
+|  i-030eb32a1141ac605|  zk4.lambdatest.com           |  Sawan  |  None |  t2.small  |  running  |
+|  i-031ab1a72a12d73a8|  remote-us-west-2             |  Deepak |  None |  t2.medium |  running  |
+|  i-09596de0b8b583315|  vpn-heartbeat-do-not-delete  |  Shahid |  None |  t2.micro  |  running  |
+|  i-0f9cc0b0b18fd44e1|  ECR                          |  Deepak |  None |  t2.medium |  running  |
+|  i-039198c5382bd22b1|  ci.lambdatest.com            |  Deepak |  None |  t2.medium |  running  |
++---------------------+-------------------------------+---------+-------+------------+-----------+
